@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-color: #393e46;
+    overflow: hidden;
+  }
+  
+  h1 {
+    font-size: 8rem;
+    color: #4ecca3;
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 0.3rem;
+    text-align: center;
+  }
+  
+  
+  p {
+    color: #4ecca3;
+    font-size: 2rem;
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    left: -15px;
+  }
+  
+  .main {
+    display: inline-block;
+    text-align: center;
+    margin-top: 4rem;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .dice1,
+  .dice2 {
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+  }
+  
+  .footer {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .last{
+      left: 1rem;
+  }
+  
+  a{
+      color: #4ecca3;
+      font-size: 2rem;
+      font-family: "Cedarville Cursive", cursive;
+      font-weight: 400;
+      font-style: normal;
+  }
+  
+  
+  
+  
