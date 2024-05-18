@@ -77,10 +77,10 @@
   .footer{
     margin-top: 0.5rem;
   }
-    img{
-        width:30%;
+
+  .last{
+      visibility: hidden;
     }
-    
 }
   
   
