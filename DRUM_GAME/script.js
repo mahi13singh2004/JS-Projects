@@ -57,6 +57,6 @@ function animations(key){
    button.classList.add("animate");
    setTimeout(function(){
     button.classList.remove("animate")
-   },100)
+   },30)
 }
 
